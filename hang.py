@@ -1,3 +1,5 @@
+#Hangman
+#BY: Orangeman9590 at GitHub
 import random
 words = ["hello", "about", "birds", "royal", "labor", "sunny", "cling", "manic", "bushy", "woody", "nurse"]
 word = random.choice(words)
